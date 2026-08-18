@@ -1,4 +1,4 @@
-% shock_polar_asymmetric_inline.m
+
 clear; close all; clc;
 
 % parameters
