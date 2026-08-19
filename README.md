@@ -82,6 +82,4 @@ The intersection points between the top and bottom secondary polars indicate val
 
 Distributed under the MIT License. See `LICENSE` for details.
 
-```
 
-```
